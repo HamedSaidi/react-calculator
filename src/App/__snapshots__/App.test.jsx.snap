@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders the App component and matches snapshot 1`] = `
+<div
+  className="component-app"
+>
+  <Display
+    value="0"
+  />
+  <ButtonPanel
+    clickHandler={[Function]}
+  />
+</div>
+`;
